@@ -1,0 +1,4 @@
+scaler = MinMaxScaler()
+scaler.fit_transform(X features)
+X(Input) : “Petrol_tax”, “Average_income”, “Paved_Highways”, “Population_Driver_licence(%)”
+y(Output): “Petrol_Consumption”
